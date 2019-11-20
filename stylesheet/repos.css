@@ -1,12 +1,12 @@
 h3 {
   margin: 0;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 600
 }
 
 li {
   list-style: none;
-  font-size: 15px;
+  font-size: 12px;
   padding: 10px;
   border-bottom: 1px solid #ccc;
   display: flex;
@@ -18,6 +18,6 @@ li:last-of-type {
 }
 
 .icon {
-  height: 14px;
+  height: 12px;
   margin: 0 5px;
 }
