@@ -1,0 +1,22 @@
+@import 'form.css';
+@import 'results.css';
+@import 'repos.css';
+@import 'profile.css';
+
+#page-container {
+  background-color: #f0f0f0;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #FF5A5F;
+}
